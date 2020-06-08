@@ -1,8 +1,8 @@
-# [Template Jinja2 Theme](https://theme-jinja2.appseed.us/)
+# [Jinja2 Theme - CoreUI (Free Version)](https://theme-jinja2-coreui.appseed.us/)
 
-> Template Jinja2 Theme provided by [AppSeed](https://appseed.us) - Features:
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
-- UI Kit: **Neumorphism UI** (Free Version) by **Themesberg**
+- UI Kit: **CoreUI Dashboard** (Free Version) by **CoreUI** - v3.2.0
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
@@ -10,23 +10,26 @@
 
 > Links
 
-- [Template Jinja2 Theme](https://theme-jinja2.appseed.us/) - LIVE Demo
+- [Jinja2 Theme - CoreUI (Free Version)](https://theme-jinja2-coreui.appseed.us/) - LIVE Demo
 
 <br />
 
-## UI Kit - [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap)
+## UI Kit - [CoreUI Free Dashboard](https://coreui.io/bootstrap/?ref=appseed)
 
-*Vendor Notes* - Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.
-All components are perfectly in compliance with the neumorphism design trend making use of the specific shadow and coloring attributes. Neumorphism UI also comes with the shadow inset style add-on. Only some neumorphic components that are included are timelines, profile cards, pricing cards, call to action sections and many more.
+*Vendor Notes* - CoreUI is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. 
+It goes way beyond hitherto admin templates thanks to transparent code and file structure. 
+And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high-quality icons.
+
+CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
 
 > Links
 
-- [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap) - product page
-- [Neumorphism UI Docs](https://themesberg.com/docs/neumorphism-ui/getting-started/quick-start/)
+- [CoreUI](https://coreui.io/bootstrap/?ref=appseed) - product page
+- [CoreUI](https://github.com/coreui/coreui-free-bootstrap-admin-template/) - Bootstrap version source code
 
 <br />
 
-![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Jinja2 Theme - CoreUI (Free Version) - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2-coreui/master/media/theme-jinja2-coreui-screen.png)
 
 <br />
 
@@ -34,8 +37,8 @@ All components are perfectly in compliance with the neumorphism design trend mak
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/theme-jinja2-coreui.git
+$ cd theme-jinja2-coreui
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -124,8 +127,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/theme-jinja2-coreui.git
+$ cd theme-jinja2-coreui
 ```
 
 > Start the app in Docker
@@ -187,4 +190,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Template Jinja2 Theme](https://theme-jinja2.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja2 Theme - CoreUI (Free Version)](https://theme-jinja2-coreui.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
