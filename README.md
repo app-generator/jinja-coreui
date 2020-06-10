@@ -12,6 +12,11 @@
 
 - [Jinja2 Theme - CoreUI (Free Version)](https://theme-jinja2-coreui.appseed.us/) - LIVE Demo
 
+> Used by
+
+- [Flask Dashboard CoreUI](https://github.com/app-generator/flask-dashboard-coreui)
+- [Django Dashboard CoreUI](https://github.com/app-generator/django-dashboard-coreui)
+
 <br />
 
 ## UI Kit - [CoreUI Free Dashboard](https://coreui.io/bootstrap/?ref=appseed)
