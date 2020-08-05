@@ -14,8 +14,8 @@
 
 > Used by
 
-- [Flask Dashboard CoreUI](https://github.com/app-generator/flask-dashboard-coreui)
-- [Django Dashboard CoreUI](https://github.com/app-generator/django-dashboard-coreui)
+- [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - free admin dashboard
+- [Django Dashboard CoreUI](https://appseed.us/admin-dashboards/django-dashboard-coreui) - free Django dashboard
 
 <br />
 
