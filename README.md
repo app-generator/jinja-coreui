@@ -1,4 +1,4 @@
-# [Jinja2 Template - CoreUI](https://theme-jinja2-coreui.appseed.us/)
+# [Jinja Template - CoreUI](https://theme-jinja2-coreui.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -34,7 +34,7 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 <br />
 
-![Jinja2 Theme - CoreUI (Free Version) - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2-coreui/master/media/theme-jinja2-coreui-screen.png)
+![Jinja Template - CoreUI.](https://raw.githubusercontent.com/app-generator/theme-jinja2-coreui/master/media/theme-jinja2-coreui-screen.png)
 
 <br />
 
@@ -195,4 +195,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja2 Template - CoreUI](https://theme-jinja2-coreui.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template - CoreUI](https://theme-jinja2-coreui.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
