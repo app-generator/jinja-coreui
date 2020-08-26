@@ -184,4 +184,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template - CoreUI](https://theme-jinja2-coreui.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://github.com/app-generator/jinja-template) [CoreUI](https://appseed.us/agency/coreui) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
