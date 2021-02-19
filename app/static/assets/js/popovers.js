@@ -13,4 +13,3 @@ document.querySelectorAll('[data-toggle="popover"]').forEach(function (element) 
 // $('.popover-dismiss').popover({
 //   trigger: 'focus'
 // })
-//# sourceMappingURL=popovers.js.map

@@ -136,4 +136,3 @@ var polarAreaChart = new Chart(document.getElementById('canvas-6'), {
     responsive: true
   }
 });
-//# sourceMappingURL=charts.js.map

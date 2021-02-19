@@ -13,4 +13,3 @@ document.querySelectorAll('.theme-color').forEach(function (element) {
   table.innerHTML = "\n      <table class=\"w-100\">\n        <tr>\n          <td class=\"text-muted\">HEX:</td>\n          <td class=\"font-weight-bold\">" + coreui.Utils.rgbToHex(color) + "</td>\n        </tr>\n        <tr>\n          <td class=\"text-muted\">RGB:</td>\n          <td class=\"font-weight-bold\">" + color + "</td>\n        </tr>\n      </table>\n    ";
   element.parentNode.appendChild(table);
 });
-//# sourceMappingURL=colors.js.map
