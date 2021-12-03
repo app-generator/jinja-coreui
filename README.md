@@ -40,7 +40,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-![Flask Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt/master/media/flask-dashboard-volt-screen.png)
+![Jinja CoreUI - Template project provided by AppSeed.](https://user-images.githubusercontent.com/51070104/144583471-e0c03800-6ca1-4acb-93f6-7e08649fb41d.gif)
 
 <br />
 
