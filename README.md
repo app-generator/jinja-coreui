@@ -8,9 +8,8 @@
 
 - UI Kit: **CoreUI Dashboard** (Free Version) by **CoreUI** - v4.1.0
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
