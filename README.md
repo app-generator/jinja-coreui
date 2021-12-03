@@ -6,7 +6,7 @@
 
 > Features:
 
-- UI Kit: **CoreUI Dashboard** (Free Version) by **CoreUI** - v3.2.0
+- UI Kit: **CoreUI Dashboard** (Free Version) by **CoreUI** - v4.1.0
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
@@ -19,15 +19,28 @@
 
 <br />
 
-## [CoreUI](https://appseed.us/agency/coreui)
+## Quick Start in [Docker](https://www.docker.com/)
 
-**CoreUI** is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. 
-It goes way beyond hitherto admin templates thanks to transparent code and file structure. 
-And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high-quality icons.
+> Get the code
 
-CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
+```bash
+$ git clone https://github.com/app-generator/jinja-coreui.git
+$ cd jinja-coreui
+```
 
-![Jinja Template - CoreUI.](https://raw.githubusercontent.com/app-generator/jinja-coreui/master/media/theme-jinja2-coreui-screen.png)
+> Start the app in Docker
+
+```bash
+$ docker-compose pull   # download dependencies 
+$ docker-compose build  # local set up
+$ docker-compose up -d  # start the app 
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
+
+<br />
+
+![Flask Bootstrap 5 Volt - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-volt/master/media/flask-dashboard-volt-screen.png)
 
 <br />
 
@@ -114,30 +127,6 @@ The project has a simple structure, represented as bellow:
 ## Deployment
 
 The project comes with a basic configuration for [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
-
-<br />
-
-### [Docker](https://www.docker.com/) execution
----
-
-The steps to start the template using Docker:
-
-> Get the code
-
-```bash
-$ git clone https://github.com/app-generator/jinja-coreui.git
-$ cd jinja-coreui
-```
-
-> Start the app in Docker
-
-```bash
-$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
-```
-
-Visit `http://localhost:5005` in your browser. The app should be up & running.
-
-<br />
 
 ### [Gunicorn](https://gunicorn.org/)
 ---
